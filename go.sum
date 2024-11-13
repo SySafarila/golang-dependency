@@ -1,2 +1,6 @@
 github.com/SySafarila/golang-test-module v1.0.0 h1:VZOFIc9xfWIrG5x3reqyRZ1TFH4kpnD+QM0sc6S2GMo=
 github.com/SySafarila/golang-test-module v1.0.0/go.mod h1:j1eYYW1yRKDH4To3sLpzajsUAmJIRKLcjA3lSGZ2yXQ=
+github.com/SySafarila/golang-test-module v1.5.0 h1:HM8dBEzNl7TCv7rPdKWsi3lpb8s3zttNOCsoPwGVNUA=
+github.com/SySafarila/golang-test-module v1.5.0/go.mod h1:j1eYYW1yRKDH4To3sLpzajsUAmJIRKLcjA3lSGZ2yXQ=
+github.com/SySafarila/golang-test-module/v2 v2.0.0 h1:4JXwPKlNVXp80UQkxJQH8DbJfGRZUotsfKjM/NIJOns=
+github.com/SySafarila/golang-test-module/v2 v2.0.0/go.mod h1:4XiKduNug/YN36d63MxrSoJJrIlxjb5m+soVe6yn/M0=
